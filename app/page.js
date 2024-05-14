@@ -7,5 +7,6 @@ export default function Home() {
       <h1>MainPage</h1>
       <p>Men page qoshimcha qoshdim</p>
     </>
+ 
   );
 }
