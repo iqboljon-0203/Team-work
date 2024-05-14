@@ -1,0 +1,34 @@
+.about{
+    padding-top: 20px 40px 20px 40px;
+}
+.about h1{
+    font-weight: bold;
+}
+.about ul{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.about ul li{
+    width: 45%;
+    border:2px solid red;
+    padding: 10px;
+    list-style: none;
+}
+.about ul li img{
+    max-width: 100%;
+    height: 200px;
+    margin-bottom: 10px;
+}
+.about ul li h2{
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.about ul li button{
+    font-weight: bold;
+    padding: 10px 20px;
+    border:none;
+    background-color: red;
+    color: white;
+}

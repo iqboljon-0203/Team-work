@@ -1,0 +1,30 @@
+export const DataBack=[
+    {
+        id:1,
+        image_url:"https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
+        date:"15:32",
+        title:"Sport",
+        btn_content:"Ko'rish",
+    },
+    {
+        id:2,
+        image_url:"https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
+        date:"18:42",
+        title:"Dunyo",
+        btn_content:"Ko'rish",
+    },
+    {
+        id:3,
+        image_url:"https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
+        date:"09:11",
+        title:"Uzbekistan",
+        btn_content:"Ko'rish",
+    },
+    {
+        id:4,
+        image_url:"https://w7.pngwing.com/pngs/895/199/png-transparent-spider-man-heroes-download-with-transparent-background-free-thumbnail.png",
+        date:"10:10",
+        title:"Jamiyat",
+        btn_content:"Ko'rish",
+    },
+]
